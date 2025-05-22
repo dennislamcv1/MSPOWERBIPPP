@@ -1,5 +1,6 @@
-# MSBIPPP
-## Microsoft Power BI and Power Platform for Productivity Specialization
+# MSPOWERBIPPP
+
+## Microsoft Power BI and Power Platform for Productivity Specialization (10 course series)
 
 This program combines Microsoft Power BI for business intelligence and Microsoft Power Platform for business automation, providing essential skills for data-driven decision-making and building custom business software solutions with minimal coding skills.  
 
